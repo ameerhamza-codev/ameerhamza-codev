@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ameerhamza-codev
-- 👀 I’m interested in Android and Flutter mobile app development.
-- 🌱 I’m currently learning Flutter 2
+- 👀 I’m Expert in Flutter mobile app development.
+- 🌱 I’m currently learning different Flutter state management ways.
 - 📫 How to reach me: Just check my website ;) 
 
 <!---
